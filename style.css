@@ -1,0 +1,13 @@
+ body {
+      background-color: #f8f9fa;
+      padding: 40px;
+    }
+    .task-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .task-text {
+      flex-grow: 1;
+    }
